@@ -1,0 +1,9 @@
+C:\Users\Developer AZ SMART\Documents\netCore\MvcPeliculas\MvcPeliculas\bin\Debug\netcoreapp1.1\MvcPeliculas.deps.json
+C:\Users\Developer AZ SMART\Documents\netCore\MvcPeliculas\MvcPeliculas\bin\Debug\netcoreapp1.1\MvcPeliculas.runtimeconfig.json
+C:\Users\Developer AZ SMART\Documents\netCore\MvcPeliculas\MvcPeliculas\bin\Debug\netcoreapp1.1\MvcPeliculas.runtimeconfig.dev.json
+C:\Users\Developer AZ SMART\Documents\netCore\MvcPeliculas\MvcPeliculas\bin\Debug\netcoreapp1.1\MvcPeliculas.dll
+C:\Users\Developer AZ SMART\Documents\netCore\MvcPeliculas\MvcPeliculas\bin\Debug\netcoreapp1.1\MvcPeliculas.pdb
+C:\Users\Developer AZ SMART\Documents\netCore\MvcPeliculas\MvcPeliculas\obj\Debug\netcoreapp1.1\MvcPeliculas.csprojResolveAssemblyReference.cache
+C:\Users\Developer AZ SMART\Documents\netCore\MvcPeliculas\MvcPeliculas\obj\Debug\netcoreapp1.1\MvcPeliculas.AssemblyInfo.cs
+C:\Users\Developer AZ SMART\Documents\netCore\MvcPeliculas\MvcPeliculas\obj\Debug\netcoreapp1.1\MvcPeliculas.dll
+C:\Users\Developer AZ SMART\Documents\netCore\MvcPeliculas\MvcPeliculas\obj\Debug\netcoreapp1.1\MvcPeliculas.pdb
